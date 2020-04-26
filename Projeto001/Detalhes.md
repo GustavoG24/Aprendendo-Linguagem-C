@@ -1,0 +1,1 @@
+Neste projeto, utilizaremos as funçoes **printf**, **scanf**
